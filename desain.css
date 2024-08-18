@@ -1,0 +1,22 @@
+/* cara agar bisa gini tekan ctrl+x+/ */
+/* background */
+html {
+    background-color: rgb(184, 158, 81);
+}
+
+#title {
+    text-align: center;
+}
+
+#awal {
+    padding-left: 30px;
+    padding-right: 200px;
+}
+
+#awal1 {
+    padding-left: 1px;
+}
+
+li {
+    padding-left: 10px;
+}
