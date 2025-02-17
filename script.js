@@ -1,12 +1,12 @@
 function showMessage() {
-    document.getElementById("message").innerText = "Masa SMA emang paling gokil! HA WOII! 🔥";
+    document.getElementById("message").innerText = "SEMANGAT YA BOGEL SEKOLAH NYA🎒! 🔥";
 }
 
 // Fungsi untuk menampilkan 💖 melayang
 function createHeart() {
     const heart = document.createElement("div");
     heart.classList.add("heart");
-    heart.innerText = "💖";
+    heart.innerText = "💖cacasayang";
     document.body.appendChild(heart);
 
     // Posisi acak di layar
